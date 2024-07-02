@@ -1,0 +1,8 @@
+pip install scikit-learn
+pip install scikit-image
+pip install unzip
+pip install joblib
+pip install pandas
+pip install matplotlib
+pip install natsort
+streamlit
